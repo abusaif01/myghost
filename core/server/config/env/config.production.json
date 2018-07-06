@@ -1,10 +1,13 @@
 {
+    "url": "http://blog-saifsblog.1d35.starter-us-east-1.openshiftapps.com/",
     "database": {
-        "client": "sqlite3",
+        "client": "mysql",
         "connection": {
-            "filename": "content/data/ghost-dev.db"
-        },
-        "debug": false
+            "host"     : "127.0.0.1",
+            "user"     : "root",
+            "password" : "",
+            "database" : "ghost"
+        }
     },
     "paths": {
         "contentPath": "content/"
