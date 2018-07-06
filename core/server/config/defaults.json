@@ -1,6 +1,7 @@
 {
+    "url": "https://blog.saifsblog.svc:8080",
     "server": {
-        "host": "127.0.0.1",
+        "host": "blog.saifsblog.svc",
         "port": 8080
     },
     "updateCheck": {
