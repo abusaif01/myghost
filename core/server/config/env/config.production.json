@@ -1,5 +1,5 @@
 {
-    "url": "http://blog.tafluk.com/",
+    "url": "https://tafluk.com/",
     "database": {
         "client": "sqlite3",
         "connection": {
